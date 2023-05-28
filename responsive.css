@@ -1,0 +1,84 @@
+@media (min-width: 1200px) {
+    .btn3{
+        width:17.5rem;
+    }
+  
+}
+@media (max-width:1200) {
+  
+}
+ 
+
+@media (max-width: 992px) {
+   
+   
+}
+
+@media (max-width: 768px) {
+
+    .head1{
+        font-size: 64px;
+    }
+    .ppl .head2{
+        font-size: 64px;
+    }
+    
+   
+   
+}
+
+
+
+@media (max-width: 576px) {
+    .head1{
+        font-size: 48px;
+    }
+
+    
+}
+
+@media (max-width: 480px) {}
+
+@media (max-width: 420px) {
+    
+   
+}
+
+@media (max-width: 405px) {
+    .btn1{
+        width: 8.75rem;
+        height:2.5rem;
+        font-size: 16px;
+        padding: 6px 10px;
+        
+    }
+    .btn2{
+        width:6.25rem;
+        height:2.5rem ;
+        font-size: 16px;
+        padding: 6px 8px;
+    }}
+  
+
+@media (max-width: 305px) {
+    .btn1{
+        width: 6.75rem;
+        height:1.5rem;
+        font-size: 12px;
+        padding: 3px 8px;
+        
+    }
+    .btn2{
+        width:5.25rem;
+        height:1.5rem ;
+        font-size: 12px;
+        padding: 3px 6px;
+    }}
+
+
+
+
+@media (min-width: 1200px) {
+    
+
+}

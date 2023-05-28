@@ -1,0 +1,121 @@
+/*ppl*/
+.head2{
+    font-weight: bolder;
+    color: aliceblue;
+    font-size: 80px;
+    letter-spacing: -2.4px;
+}
+.pp1{
+    color:aliceblue;
+    font-size: 18px;
+}
+.card {
+    margin: 1em auto;
+    background-color: #2d2d2d;
+    border-radius: 24px;
+    max-width:20rem auto ;
+    border-color: rgb(95, 95, 95);
+    border-width: 1px;
+  }
+.card-img-top{
+    background-color: #7d7d7d;
+    object-fit: cover;
+    object-position: 50% 50%;
+    border-top-left-radius: 24px;
+    border-top-right-radius: 24px;
+    border-color: white;
+
+}
+.card-title{
+    font-size: 18px;
+}
+.badge{
+    padding: 8px;
+    font-size: 12px;
+    
+}
+.ch{
+    display:flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+.badge{
+    display:flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+.badge1{
+    color: #ff3d71;
+    background-color: #29000b;   
+}
+.badge2{
+    color: #00ff66;
+    background-color: #002910;   
+}
+.badge3{
+    color: #ff892e;
+    background-color: #291200;   
+}
+.badge4{
+    color: #a6a3ff;
+    background-color: #0e0e20;   
+}
+.badge5{
+    color: #ffd500;
+    background-color: #292800;   
+}
+.badge6{
+    color: #00b2ff;
+    background-color: #001d29;   
+}
+.card-text{
+    font-size: 14px;
+    color:rgb(189, 189, 189);
+    font-weight: 600;
+    text-transform: lowercase;
+}
+.hppl{
+    font-size: 30px;
+    font-weight: 800;
+    letter-spacing: -0.4px;
+    line-height: 1.4em;
+    text-align: center;
+    
+}
+.btnfaq{
+    border-color: white;
+    display: inline-block;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: large;
+    border-radius: 20px;
+    width:100px;
+    font-size:0.9rem ;
+    transition: all 0.16s ease-in;
+    height: 35px;
+    font-weight:lighter;
+    background: #343a40;
+    color:#e2dfdf;
+}
+.btnfaq:hover {
+color: #545454;
+background-color: white;
+border-color: #343a40;
+box-shadow: 0 0 0 1px rgba(80, 80, 80, .5);
+}
+@media (max-width: 768px) {
+    .head2{
+        font-size: 64px;
+    }
+}
+
+
+
+@media (max-width: 576px) {
+    .head2{
+        font-size: 46px;
+    }
+
+    
+}
+
